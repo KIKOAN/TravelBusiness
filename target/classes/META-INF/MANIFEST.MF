@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: MNASRI THABET
+Build-Jdk: 15.0.2
+Implementation-Title: User_Authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: User_Authentication
+Implementation-URL: https://spring.io/projects/spring-boot/User_Authenti
+ cation
+Created-By: Maven Integration for Eclipse
+
